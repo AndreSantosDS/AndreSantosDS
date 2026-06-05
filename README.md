@@ -34,7 +34,7 @@ Desenvolvedor Backend Júnior especializado em APIs REST e aplicações web com 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Conjunto de tecnologias
 
 ### Conhecimentos de Frontend
 
