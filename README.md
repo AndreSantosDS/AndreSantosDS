@@ -3,7 +3,7 @@
 🚀 **Desenvolvedor de Software Backend Júnior JavaScript & TypeScript**  
 🇧🇷 Brazil
 
-Desenvolvedor Backend Júnior especializado em APIs REST e aplicações web com Node.jsJavaScript, TypeScript, Express, Fastify, SQL e MongoDB. Apaixonado por arquitetura de software, código limpo e desenvolvimento de soluções escaláveis.
+Desenvolvedor Backend Júnior especializado em APIs REST e aplicações web com Node.js, JavaScript, TypeScript, Express, Fastify, SQL e MongoDB. Apaixonado por arquitetura de software, código limpo e desenvolvimento de soluções escaláveis.
 
 ---
 
