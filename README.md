@@ -10,11 +10,11 @@ Desenvolvedor Backend Júnior especializado em APIs REST e aplicações web com 
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/AndreSantosDS">
+  <a href="https://github.com/AndreSantosDS target='_blanck'">
   <img src="https://img.shields.io/badge/GitHub-AndreSantosDS-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/andr%C3%A9-santos-91314b310/">
+<a href="https://www.linkedin.com/in/andr%C3%A9-santos-91314b310/ target='_blanck'">
   <img src="https://img.shields.io/badge/LinkedIn-André%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
