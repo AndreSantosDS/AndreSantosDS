@@ -23,14 +23,14 @@ Desenvolvedor Fullstack Júnior com experiência no desenvolvimento de APIs REST
 
 ## 🧠 O que eu faço
 
-🚀 Desenvolvimento de aplicações web Fullstack e APIs REST
-🎨 Vue.js, JavaScript, TypeScript, HTML e CSS
-⚙️ Node.js, Express, NestJS e Fastify
-🏗️ Arquitetura de software, código limpo e boas práticas
-🔐 Autenticação, autorização e segurança de aplicações
-🗄️ SQL, MongoDB e modelagem de bancos de dados
-🐳 Docker, Git e integração entre frontend e backend
-📚 Desenvolvimento de projetos com foco em escalabilidade e performance
+- 🚀 Desenvolvimento de aplicações web Fullstack e APIs REST
+- 🎨 Vue.js, JavaScript, TypeScript, HTML e CSS
+- ⚙️ Node.js, Express, NestJS e Fastify
+- 🏗️ Arquitetura de software, código limpo e boas práticas
+- 🔐 Autenticação, autorização e segurança de aplicações
+- 🗄️ SQL, MongoDB e modelagem de bancos de dados
+- 🐳 Docker, Git e integração entre frontend e backend
+- 📚 Desenvolvimento de projetos com foco em escalabilidade e performance
 
 ---
 
@@ -75,9 +75,15 @@ Desenvolvedor Fullstack Júnior com experiência no desenvolvimento de APIs REST
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AndreSantosDS&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndreSantosDS&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=AndreSantosDS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreSantosDS&layout=compact&theme=tokyonight&langs_count=8"
+  />
 </p>
 
 ---
