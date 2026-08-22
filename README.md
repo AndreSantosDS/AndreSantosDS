@@ -78,11 +78,19 @@ Desenvolvedor Fullstack Júnior com experiência no desenvolvimento de APIs REST
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=AndreSantosDS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats-fast.vercel.app/api?username=AndreSantosDS&show_icons=true&theme=tokyonight"
   />
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreSantosDS&layout=compact&theme=tokyonight&langs_count=8"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AndreSantosDS&layout=compact&theme=tokyonight&langs_count=8"
+  />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=AndreSantosDS&theme=tokyonight"
   />
 </p>
 
