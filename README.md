@@ -86,14 +86,6 @@ Desenvolvedor Fullstack Júnior com experiência no desenvolvimento de APIs REST
   />
 </p>
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=AndreSantosDS&theme=tokyonight"
-  />
-</p>
-
 ---
 
 ## 🚀 Filosofia
