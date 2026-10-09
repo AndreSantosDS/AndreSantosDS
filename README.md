@@ -1,9 +1,9 @@
 # Oi 👋, Eu sou André Santos
 
-🚀 **Desenvolvedor de Software Fullstack Júnior**  
+🚀 **Desenvolvedor de Software Backend Júnior**  
 🇧🇷 Brazil
 
-Desenvolvedor Fullstack Júnior com experiência no desenvolvimento de APIs REST e aplicações web utilizando Vue.js, Node.js, JavaScript, TypeScript, SQL e MongoDB.
+Desenvolvedor Backend Júnior com experiência no desenvolvimento de APIs REST e aplicações web utilizando Java, Spring Boot, Node, Express, NestJS, SQL e MongoDB.
 ---
 
 ## 🌐 Onde me encontrar
@@ -23,9 +23,9 @@ Desenvolvedor Fullstack Júnior com experiência no desenvolvimento de APIs REST
 
 ## 🧠 O que eu faço
 
-- 🚀 Desenvolvimento de aplicações web Fullstack e APIs REST
-- 🎨 Vue.js, JavaScript, TypeScript, HTML e CSS
-- ⚙️ Node.js, Express, NestJS e Fastify
+- 🚀 Desenvolvimento de aplicações
+- 🎨 Vue.js, React, JavaScript, TypeScript, HTML e CSS
+- ⚙️ Java, Spring Boot, Node.js, Express e NestJS
 - 🏗️ Arquitetura de software, código limpo e boas práticas
 - 🔐 Autenticação, autorização e segurança de aplicações
 - 🗄️ SQL, MongoDB e modelagem de bancos de dados
@@ -36,19 +36,23 @@ Desenvolvedor Fullstack Júnior com experiência no desenvolvimento de APIs REST
 
 ## 🛠️ Conjunto de tecnologias
 
-### Frontend
+### Conhecimentos Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=fff)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=fff)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=fff)
 
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=fff)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=fff)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=fff)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=fff)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=fff)
