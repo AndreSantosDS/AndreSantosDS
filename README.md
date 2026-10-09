@@ -3,7 +3,8 @@
 🚀 **Desenvolvedor de Software Backend Júnior**  
 🇧🇷 Brazil
 
-Desenvolvedor Backend Júnior com experiência no desenvolvimento de APIs REST e aplicações web utilizando Java, Spring Boot, Node, Express, NestJS, SQL e MongoDB.
+Desenvolvedor Backend Júnior com experiência no desenvolvimento de APIs RESTful e aplicações backend, utilizando Java, Spring Boot, Node.js, Express, NestJS, SQL e MongoDB.
+
 ---
 
 ## 🌐 Onde me encontrar
